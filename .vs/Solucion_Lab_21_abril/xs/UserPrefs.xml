@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6AE07713-C53C-4367-8DE3-95DBE2A952B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Solucion_Lab_21_abril/User.cs">
+    <Files>
+      <File FileName="Solucion_Lab_21_abril/ChangePasswordEventArgs.cs" Line="1" Column="1" />
+      <File FileName="Solucion_Lab_21_abril/DataBase.cs" Line="1" Column="1" />
+      <File FileName="Solucion_Lab_21_abril/MailSender.cs" Line="1" Column="1" />
+      <File FileName="Solucion_Lab_21_abril/Program.cs" Line="1" Column="1" />
+      <File FileName="Solucion_Lab_21_abril/RegisterEventArgs.cs" Line="1" Column="1" />
+      <File FileName="Solucion_Lab_21_abril/Server.cs" Line="1" Column="1" />
+      <File FileName="Solucion_Lab_21_abril/SMSSender.cs" Line="1" Column="1" />
+      <File FileName="Solucion_Lab_21_abril/User.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Solucion_Lab_21_abril" expanded="True">
+            <Node name="Solucion_Lab_21_abril" expanded="True">
+              <Node name="User.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Solucion__Lab__21__abril PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

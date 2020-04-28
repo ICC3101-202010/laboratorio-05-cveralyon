@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj": {}
+    "/Users/cristianveralyon/Desktop/labpoo/laboratorio-05-cveralyon/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj": {}
   },
   "projects": {
-    "/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj": {
+    "/Users/cristianveralyon/Desktop/labpoo/laboratorio-05-cveralyon/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj",
+        "projectUniqueName": "/Users/cristianveralyon/Desktop/labpoo/laboratorio-05-cveralyon/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj",
         "projectName": "Solucion_Lab_21_abril",
-        "projectPath": "/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj",
+        "projectPath": "/Users/cristianveralyon/Desktop/labpoo/laboratorio-05-cveralyon/Solucion_Lab_21_abril/Solucion_Lab_21_abril.csproj",
         "packagesPath": "/Users/cristianveralyon/.nuget/packages/",
-        "outputPath": "/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/",
+        "outputPath": "/Users/cristianveralyon/Desktop/labpoo/laboratorio-05-cveralyon/Solucion_Lab_21_abril/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cristianveralyon/.config/NuGet/NuGet.Config"

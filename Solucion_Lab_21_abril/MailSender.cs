@@ -7,10 +7,15 @@ namespace Solucion_Lab_21_abril
 {
     public class MailSender
     {
+        public delegate void DelegateSent();
+        public event DelegateSent EmailSent;
+
+
         public void OnRegistered(object source, RegisterEventArgs e)
         {
             Thread.Sleep(2000);
             Console.WriteLine($"\nCorreo enviado a {e.Email}: \n Gracias por registrarte, {e.Username}!\n Por favor, para poder verificar tu correo, has click en: {e.VerificationLink}\n");
+            EmailSent();
             Thread.Sleep(2000);
         }
 
