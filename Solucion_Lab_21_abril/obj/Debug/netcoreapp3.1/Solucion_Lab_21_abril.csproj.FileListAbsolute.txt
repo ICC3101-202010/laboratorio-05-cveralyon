@@ -1,0 +1,12 @@
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.deps.json
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.runtimeconfig.json
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.runtimeconfig.dev.json
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.dll
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/bin/Debug/netcoreapp3.1/Solucion_Lab_21_abril.pdb
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.csprojAssemblyReference.cache
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.csproj.CoreCompileInputs.cache
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.AssemblyInfoInputs.cache
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.AssemblyInfo.cs
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.dll
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.pdb
+/Users/cristianveralyon/Desktop/labpoo/Solucion_Lab5_POO/Solucion_Lab_21_abril/obj/Debug/netcoreapp3.1/Solucion_Lab_21_abril.genruntimeconfig.cache
